@@ -77,3 +77,11 @@ npm run dev                # پورت 5173
 ## License
 
 MIT
+
+## 👤 سازنده
+
+**مهدی طلوعی**
+
+- GitHub: [@mtprogrammer2024](https://github.com/mtprogrammer2024)
+- Email: mt.programmer2024@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mahdi-toloee-34b980309/
