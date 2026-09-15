@@ -84,4 +84,4 @@ MIT
 
 - GitHub: [@mtprogrammer2024](https://github.com/mtprogrammer2024)
 - Email: mt.programmer2024@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mahdi-toloee-34b980309/
+- LinkedIn: https://www.linkedin.com/in/mahditoloee/
